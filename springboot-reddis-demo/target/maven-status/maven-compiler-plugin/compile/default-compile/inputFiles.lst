@@ -1,0 +1,8 @@
+/Users/mohfaiza3/Desktop/personal-projects/springboot-reddis-demo/src/main/java/com/learning/reddis/entity/User.java
+/Users/mohfaiza3/Desktop/personal-projects/springboot-reddis-demo/src/main/java/com/learning/reddis/repository/UserRepositoryImpl.java
+/Users/mohfaiza3/Desktop/personal-projects/springboot-reddis-demo/src/main/java/com/learning/reddis/SpringbootReddisDemoApplication.java
+/Users/mohfaiza3/Desktop/personal-projects/springboot-reddis-demo/src/main/java/com/learning/reddis/config/RedisConfig.java
+/Users/mohfaiza3/Desktop/personal-projects/springboot-reddis-demo/src/main/java/com/learning/reddis/repository/UserRepository.java
+/Users/mohfaiza3/Desktop/personal-projects/springboot-reddis-demo/src/main/java/com/learning/reddis/service/UserService.java
+/Users/mohfaiza3/Desktop/personal-projects/springboot-reddis-demo/src/main/java/com/learning/reddis/controller/UserController.java
+/Users/mohfaiza3/Desktop/personal-projects/springboot-reddis-demo/src/main/java/com/learning/reddis/service/UserServiceImpl.java
